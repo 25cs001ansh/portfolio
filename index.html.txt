@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
-    <meta viewport="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Portfolio | Ansh Adodariya</title>
     <link rel="stylesheet" href="style.css" />
 </head>
@@ -33,8 +33,8 @@
     <section id="about" class="about">
         <h2 class="heading">About Me</h2>
         <p>
-            I am a passionate developer who loves creating websites,
-            solving coding problems, and learning new technologies.
+            I am Ansh Adodariya, a passionate developer from CHARUSAT University.
+            I enjoy creating websites, solving coding challenges, and learning new technologies.
         </p>
     </section>
 
@@ -61,7 +61,7 @@
     <!------------ Contact ------------>
     <section id="contact" class="contact">
         <h2 class="heading">Contact Me</h2>
-        <p>Email: ans@example.com</p>
+        <p>Email: 25cs001@charusat.edu.in</p>
         <p>GitHub: github.com/ansh-adodariya</p>
     </section>
 
